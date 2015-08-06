@@ -2,3 +2,6 @@ este archivo es nuevo
 
 estas líneas son importantes y me van a dar conflicto
 htlm
+
+
+nuevo commit en otro branch
